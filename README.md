@@ -27,17 +27,21 @@ According to these demographics we can say single people tend to churn and join 
 
 Part 3: Churn Details in Technical Parts
 ![t3](https://github.com/user-attachments/assets/8f728bb3-6d22-496b-a133-27126b851d87)
-  When we check our decomposition tree regarding the churn reasons, we see majority of the churns were made because of our competitors. Our competitors offering better deals and technology as well as better download speeds with more data made us lose clients.
+
+	When we check our decomposition tree regarding the churn reasons, we see majority of the churns were made because of our competitors. Our competitors offering better deals and technology as well as better download speeds with more data made us lose clients.
 	The second reason of losing the clients is the dissatisfaction from our services. Churn reasons give is many complains about low quality products, unreliable network connection, limited range and poor support.
    Third reason of losing the clients is the attitude of our support and service employees. There are many dissatisfied customers who had bad experience with support services.
   
 ![t4](https://github.com/user-attachments/assets/6c2a1c3a-a0fa-45b3-b58b-4eac06a34089)
+
 Moving on to the offer types, we see that the company fails to offer a satisfactory deal for new coming customers. Half of the customers don’t get an offer. We also can see that Offer E is one of the greatest reasons of churn. 
 
 ![t5](https://github.com/user-attachments/assets/9e6f7df0-f83c-43bc-8e37-bd5caa235a05)
+
 In the Internet Type section, we see that most of the churners had Fiber Optic internet. Combined with many complains about network and equipment, we can say that there is a problem with the fiber optic services.
 
 ![t6](https://github.com/user-attachments/assets/e018db44-3f94-4a27-9ee8-bb33ae211b42)
+
 As we check the churn rates by contract and tenure length, we see that monthly deals tend to get churned very easily. Almost 90% of our month-to-month deals fail to keep the client for the long term. As we can see, longer the contract is, lower the churn rates are.
 
 Final Analysis:
